@@ -1,0 +1,6 @@
+C:\Users\Ilya\source\repos\Lab5.4\Lab5.4\bin\Debug\Lab5.4.exe.config
+C:\Users\Ilya\source\repos\Lab5.4\Lab5.4\bin\Debug\Lab5.4.exe
+C:\Users\Ilya\source\repos\Lab5.4\Lab5.4\bin\Debug\Lab5.4.pdb
+C:\Users\Ilya\source\repos\Lab5.4\Lab5.4\obj\Debug\Lab5.4.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab5.4\Lab5.4\obj\Debug\Lab5.4.exe
+C:\Users\Ilya\source\repos\Lab5.4\Lab5.4\obj\Debug\Lab5.4.pdb
