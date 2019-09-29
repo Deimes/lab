@@ -1,0 +1,6 @@
+C:\Users\Ilya\source\repos\Lab3.3\Lab3.3\bin\Debug\Lab3.3.exe.config
+C:\Users\Ilya\source\repos\Lab3.3\Lab3.3\bin\Debug\Lab3.3.exe
+C:\Users\Ilya\source\repos\Lab3.3\Lab3.3\bin\Debug\Lab3.3.pdb
+C:\Users\Ilya\source\repos\Lab3.3\Lab3.3\obj\Debug\Lab3.3.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab3.3\Lab3.3\obj\Debug\Lab3.3.exe
+C:\Users\Ilya\source\repos\Lab3.3\Lab3.3\obj\Debug\Lab3.3.pdb
