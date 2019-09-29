@@ -1,0 +1,6 @@
+C:\Users\Ilya\source\repos\Lab4.2\Lab4.2\bin\Debug\Lab4.2.exe.config
+C:\Users\Ilya\source\repos\Lab4.2\Lab4.2\bin\Debug\Lab4.2.exe
+C:\Users\Ilya\source\repos\Lab4.2\Lab4.2\bin\Debug\Lab4.2.pdb
+C:\Users\Ilya\source\repos\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab4.2\Lab4.2\obj\Debug\Lab4.2.exe
+C:\Users\Ilya\source\repos\Lab4.2\Lab4.2\obj\Debug\Lab4.2.pdb
