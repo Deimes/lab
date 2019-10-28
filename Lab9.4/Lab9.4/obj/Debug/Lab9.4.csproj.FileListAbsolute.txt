@@ -1,0 +1,7 @@
+C:\Users\Ilya\source\repos\Lab9.4\Lab9.4\obj\Debug\Lab9.4.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab9.4\Lab9.4\bin\Debug\Lab9.4.exe.config
+C:\Users\Ilya\source\repos\Lab9.4\Lab9.4\bin\Debug\Lab9.4.exe
+C:\Users\Ilya\source\repos\Lab9.4\Lab9.4\bin\Debug\Lab9.4.pdb
+C:\Users\Ilya\source\repos\Lab9.4\Lab9.4\obj\Debug\Lab9.4.exe
+C:\Users\Ilya\source\repos\Lab9.4\Lab9.4\obj\Debug\Lab9.4.pdb
+C:\Users\Ilya\source\repos\Lab9.4\Lab9.4\obj\Debug\Lab9.4.csprojAssemblyReference.cache
