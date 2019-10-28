@@ -1,0 +1,6 @@
+C:\Users\Ilya\source\repos\Lab9.5\Lab9.5\bin\Debug\Lab9.5.exe.config
+C:\Users\Ilya\source\repos\Lab9.5\Lab9.5\bin\Debug\Lab9.5.exe
+C:\Users\Ilya\source\repos\Lab9.5\Lab9.5\bin\Debug\Lab9.5.pdb
+C:\Users\Ilya\source\repos\Lab9.5\Lab9.5\obj\Debug\Lab9.5.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab9.5\Lab9.5\obj\Debug\Lab9.5.exe
+C:\Users\Ilya\source\repos\Lab9.5\Lab9.5\obj\Debug\Lab9.5.pdb
