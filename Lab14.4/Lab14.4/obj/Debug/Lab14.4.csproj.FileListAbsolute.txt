@@ -1,0 +1,7 @@
+C:\Users\Ilya\source\repos\Lab14.4\Lab14.4\bin\Debug\Lab14.4.exe.config
+C:\Users\Ilya\source\repos\Lab14.4\Lab14.4\bin\Debug\Lab14.4.exe
+C:\Users\Ilya\source\repos\Lab14.4\Lab14.4\bin\Debug\Lab14.4.pdb
+C:\Users\Ilya\source\repos\Lab14.4\Lab14.4\obj\Debug\Lab14.4.csprojAssemblyReference.cache
+C:\Users\Ilya\source\repos\Lab14.4\Lab14.4\obj\Debug\Lab14.4.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab14.4\Lab14.4\obj\Debug\Lab14.4.exe
+C:\Users\Ilya\source\repos\Lab14.4\Lab14.4\obj\Debug\Lab14.4.pdb
