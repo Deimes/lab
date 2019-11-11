@@ -29,7 +29,7 @@ namespace Lab12._3
                 Console.Write("Введите внутренний радиус {0} кольца: ", i);
                 double r2 = double.Parse(Console.ReadLine());
 
-                Console.WriteLine(string.Format("Площадь {0} кольца равна: {1}",i, RingS(r1, r2)));
+                Console.WriteLine("Площадь {0} кольца равна: {1}",i, RingS(r1, r2));
             }
             Console.ReadKey();
 
