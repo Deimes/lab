@@ -18,7 +18,7 @@ namespace Lab11._6
 
 
             b = Math.Floor(Math.Log(a * Math.Sqrt(5) + 0.5) / Math.Log((1 + Math.Sqrt(5)) / 2));
-            Console.WriteLine(string.Format("Порядковый номер = {0}", b));
+            Console.WriteLine("Порядковый номер = {0}", b);
             Console.ReadKey();
 
 
