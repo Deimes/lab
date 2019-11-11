@@ -20,7 +20,7 @@ namespace Lab11._3
                 k += 1;
                 s = s + k;
             }
-            Console.WriteLine(string.Format("Сумма равна {0}, наименьшее целое К = {1}", s, k));
+            Console.WriteLine("Сумма равна {0}, наименьшее целое К = {1}", s, k);
             Console.ReadKey();
         }
     }
