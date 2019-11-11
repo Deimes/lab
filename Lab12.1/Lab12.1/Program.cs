@@ -23,7 +23,7 @@ namespace Lab12._1
 
             PowerA3(a, out b);
 
-            Console.WriteLine(string.Format("{0} в 3 степени = {1}", a, b));
+            Console.WriteLine("{0} в 3 степени = {1}", a, b);
             Console.ReadKey();
 
 
