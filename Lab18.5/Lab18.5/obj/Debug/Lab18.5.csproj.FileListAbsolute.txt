@@ -1,0 +1,7 @@
+C:\Users\Ilya\source\repos\Lab18.5\Lab18.5\bin\Debug\Lab18.5.exe.config
+C:\Users\Ilya\source\repos\Lab18.5\Lab18.5\bin\Debug\Lab18.5.exe
+C:\Users\Ilya\source\repos\Lab18.5\Lab18.5\bin\Debug\Lab18.5.pdb
+C:\Users\Ilya\source\repos\Lab18.5\Lab18.5\obj\Debug\Lab18.5.csprojAssemblyReference.cache
+C:\Users\Ilya\source\repos\Lab18.5\Lab18.5\obj\Debug\Lab18.5.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab18.5\Lab18.5\obj\Debug\Lab18.5.exe
+C:\Users\Ilya\source\repos\Lab18.5\Lab18.5\obj\Debug\Lab18.5.pdb
