@@ -1,0 +1,7 @@
+C:\Users\Ilya\source\repos\Lab19.4\Lab19.4\bin\Debug\Lab19.4.exe.config
+C:\Users\Ilya\source\repos\Lab19.4\Lab19.4\bin\Debug\Lab19.4.exe
+C:\Users\Ilya\source\repos\Lab19.4\Lab19.4\bin\Debug\Lab19.4.pdb
+C:\Users\Ilya\source\repos\Lab19.4\Lab19.4\obj\Debug\Lab19.4.csprojAssemblyReference.cache
+C:\Users\Ilya\source\repos\Lab19.4\Lab19.4\obj\Debug\Lab19.4.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab19.4\Lab19.4\obj\Debug\Lab19.4.exe
+C:\Users\Ilya\source\repos\Lab19.4\Lab19.4\obj\Debug\Lab19.4.pdb
