@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,8 +18,7 @@ namespace Lab17._2
             Write("Введите число L: ");
             l = int.Parse(ReadLine());
 
-            int[] a = new int[50];
-            int[] b = new int[10];
+            int[] a = new int[n];
             for (int i = 0; i < n; i++)
             {
                 Write("A[{0}] = ", i);
@@ -27,9 +26,10 @@ namespace Lab17._2
             }
 
             int k;
+            l--;
             for (int i = 0; i < n; i++)
             {
-                k = 1;
+                k = 0;
                 for (int j = i + 1; j < n; j++)
                 {
                     if (a[j] == a[i])
@@ -38,20 +38,14 @@ namespace Lab17._2
                     }
                     else break;
                 }
-                if (k == l)
+                
+                if (k >= l)
                 {
-                    for (int j = i; j < i + k; j++)
-                    {
-                        Write(a[j] + " ");
-                    }
-                    i += k;
-                }
-                if (k > l)
-                {
-                    i = i + l;
+                    i = i + k;
                     Write("0 ");
                 }
-                else
+
+                if (k < l)
                 {
                     Write(a[i] + " ");
                 }
