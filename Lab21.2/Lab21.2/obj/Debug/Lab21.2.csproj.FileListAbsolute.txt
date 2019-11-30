@@ -1,0 +1,7 @@
+C:\Users\Ilya\source\repos\Lab21.2\Lab21.2\bin\Debug\Lab21.2.exe.config
+C:\Users\Ilya\source\repos\Lab21.2\Lab21.2\bin\Debug\Lab21.2.exe
+C:\Users\Ilya\source\repos\Lab21.2\Lab21.2\bin\Debug\Lab21.2.pdb
+C:\Users\Ilya\source\repos\Lab21.2\Lab21.2\obj\Debug\Lab21.2.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\Lab21.2\Lab21.2\obj\Debug\Lab21.2.exe
+C:\Users\Ilya\source\repos\Lab21.2\Lab21.2\obj\Debug\Lab21.2.pdb
+C:\Users\Ilya\source\repos\Lab21.2\Lab21.2\obj\Debug\Lab21.2.csprojAssemblyReference.cache
