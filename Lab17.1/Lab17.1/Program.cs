@@ -15,7 +15,7 @@ namespace Lab17._1
             Write("Введите размер массива: ");
             n = int.Parse(ReadLine());
 
-            int[] a = new int[50];
+            int[] a = new int[n];
             int[] b = new int[n];
             int[] c = new int[n];
 
