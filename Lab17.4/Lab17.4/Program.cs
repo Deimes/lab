@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,23 +25,29 @@ namespace Lab17._4
                 a[i, 1] = int.Parse(ReadLine());
             }
 
-            int maxind = 0;
-            double s, smax;
+            int ind = -1;
+            double s, smax = 0;
 
             for (int i = 0; i < n; i++)
             {
                 if(a[i, 0] < 0 && a[i, 1] > 0)
                 {
                     s = Math.Sqrt(Math.Pow(a[i, 0], 2) + Math.Pow(a[i, 1], 2));
-                    if ( s > maxind || i == 0)
+                    if (s > smax)
                     {
                         smax = s;
-                        maxind = i;
+                        ind = i;
                     }
                 }
             }
-
-            Write("A[{0}]: X = {1} Y = {2} ", maxind, a[maxind, 0], a[maxind, 1]);
+            if (ind == -1)
+            {
+                Write("Точка (0, 0)");
+            }
+            else
+            {
+                Write("A[{0}]: X = {1} Y = {2} ", ind, a[ind, 0], a[ind, 1]);
+            }
             ReadKey();
 
         }
