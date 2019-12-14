@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,42 +26,54 @@ namespace Lab17._3
                 a[i] = int.Parse(ReadLine());
             }
 
-            int nk = 1, nachalo = 1, dl = (k == 1 ? 1 : 0), konec = 0;
-
-            for (int i = 1; i < n; ++i)
+            int nomerserii = 0, ind1 = 0, ind2 = 0, razmer = 0;
+            k--;
+            for (int i = 1; i < n; i++)
             {
                 if (a[i - 1] != a[i])
                 {
-                    nk++;
-                    if (nk == k) nachalo = i;
-                    konec = i;
+                    nomerserii++;
+                    if (nomerserii == k)
+                    {
+                        ind1 = i; // индекс начала серии
+                    }
+                    ind2 = i; // index konca
                 }
-                if (nk == k) dl++;
+                if (nomerserii == k)
+                {
+                    razmer++;
+                }
             }
 
             int c = -1;
-            for (int i = 0; i < nachalo; ++i)
-                b[++c] = a[i];
 
-            for (int i = konec; i < n; ++i)
-                b[++c] = a[i];
+            for (int i = 0; i < ind1; i++)
+            {
+                c++;
+                b[c] = a[i];
+            }
+            for (int i = ind2; i < n; i++)
+            {
+                c++;
+                b[c] = a[i];
+            }
+            for (int i = ind1 + razmer; i < ind2; i++)
+            {
+                c++;
+                b[c] = a[i];
+            }
+            for (int i = ind1; i < ind1 + razmer; i++)
+            {
+                c++;
+                b[c] = a[i];
+            }
 
-            for (int i = nachalo + dl; i < konec; ++i)
-                b[++c] = a[i];
-
-            for (int i = nachalo; i < nachalo + dl; ++i)
-                b[++c] = a[i];
-
-            for (int i = 0; i < n; ++i)
-                a[i] = b[i];
 
             for (int i = 0; i < n; i++)
             {
-                Write(a[i] + " ");
+                Write(b[i] + " ");
             }
-
             ReadKey();
-
         }
     }
 }
